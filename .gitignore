@@ -48,7 +48,7 @@
 /web/README.txt
 /web/robots.txt
 /web/update.php
-/web/web.config
+
 
 # Ignore vendor dependencies and scripts
 /vendor
